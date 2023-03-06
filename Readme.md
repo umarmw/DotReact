@@ -1,4 +1,4 @@
-# .NET 6 with ReactJS on Docker
+# .NET 6 + ReactJS on Docker
 Project name: DotReact
 
 ## Useful commands
@@ -9,7 +9,7 @@ in the root directory to build the image
 
 ### Running on specific port
 run `docker run -p 8080:80/tcp dotreact:latest`
-to launch the app rom the image
+to launch the app from the image
 
 Open your browser: `http://localhost:8080/`
 
